@@ -22,4 +22,4 @@ Filing an issue is public by design — anyone with a link can read it. Don't pa
 
 ## Contact
 
-For private inquiries, email **willarentz@gmail.com**.
+This repo's Issues tab is the only contact channel.
