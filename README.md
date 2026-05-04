@@ -20,6 +20,10 @@ A few things that help:
 
 Filing an issue is public by design — anyone with a link can read it. Don't paste personal data (full name, address, email) you'd rather keep private. The app itself never asks for or receives any of that.
 
+## Privacy policy
+
+[Read the privacy policy →](https://willarentz.github.io/lettest-weight-tracker/privacy-policy.html)
+
 ## Contact
 
 This repo's Issues tab is the only contact channel.
